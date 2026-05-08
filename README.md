@@ -142,7 +142,7 @@ GET /predict?years=5
 
 ## 👨‍💻 Author
 
-**Jashwanth Domala**
+**Varshini Reddy**
 
 ---
 
